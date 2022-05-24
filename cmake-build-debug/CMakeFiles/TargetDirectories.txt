@@ -1,0 +1,3 @@
+C:/Users/marus/Documents/домашкаыаоаыа/rk1_upd/cmake-build-debug/CMakeFiles/rk1_upd.dir
+C:/Users/marus/Documents/домашкаыаоаыа/rk1_upd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marus/Documents/домашкаыаоаыа/rk1_upd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
